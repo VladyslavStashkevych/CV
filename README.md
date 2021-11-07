@@ -1,5 +1,5 @@
 # About me
-I am student at Ukrainian National University "Lviv Polytechnic". I am currently learning C# and reelated to it frameworks(ASP.NET Core, EF Core). I have some experience using databases, especially MS SQL. There will be my present/future projects below.
+I am student at Ukrainian National University "Lviv Polytechnic". I am currently learning C# and related to it frameworks(ASP.NET Core, EF Core). I also have some experience using databases, especially MS SQL. There will be my present/future projects below.
 
 # My projects
 1. Training project with ASP.NET core MVC, EF core and MS SQL.
